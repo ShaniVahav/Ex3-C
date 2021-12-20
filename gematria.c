@@ -106,7 +106,6 @@ void gematria(char w[], char s[]){
                 run++;
             }
 
-
             for(;run<end; run++){
                 printf("%c", *run);
             }

@@ -36,5 +36,4 @@ int main(){
     printf("\nAnagram Sequences: ");
     anagram(word, str);
 
-
 }
